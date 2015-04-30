@@ -40,5 +40,3 @@ There's a pre-built method, `true?`, that when given an argument, will return ei
 
 Onces you've gotten all the tests to pass, from the root folder, type  `ruby things_that_are_true_in_ruby.rb` and hit enter. This will print out some information on truthiness in Ruby.
 
-## Resources
-* [Programming Ruby](http://books.flatironschool.com/books/11) - [Section 9.4 Conditional Execution](http://books.flatironschool.com/books/11), page 141
