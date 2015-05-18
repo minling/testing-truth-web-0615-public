@@ -38,5 +38,5 @@ And anything else is a truthy value:
 
 There's a pre-built method, `true?`, that when given an argument, will return either `true` or `false`, depending on Ruby's evaluation of the "truthiness". Change the question marks in the `spec/true_spec.rb` to either `true` or `false` until every test passes.
 
-Onces you've gotten all the tests to pass, from the root folder, type  `ruby things_that_are_true_in_ruby.rb` and hit enter. This will print out some information on truthiness in Ruby.
+Once you've gotten all the tests to pass, from the root folder, type  `ruby things_that_are_true_in_ruby.rb` and hit enter. This will print out some information on truthiness in Ruby.
 
